@@ -1,7 +1,6 @@
-## Info + Web Programming, Fordham University
-
+## Info + Web Programming
 #### August 27 - December 21, 2018
-#### CISC-2350-R01 || 30289|| Monday + Thursdays, 5:30 - 6:45 || John Mulcahy Hall, Room 331
+#### CISC-2350-R01 || 30289|| Monday + Thursdays, 5:30 - 6:45 || John Mulcahy Hall, Room 331 || Fordham University
 
 	Professor: Rebecca Leopold
 	Email: rebeccaleopold@gmail.com
@@ -61,7 +60,7 @@ This class meets for 1 hour and 15 minutes twice per week. Students are expected
 * [Learn Enough](https://www.learnenough.com/) - Michael Hartl
 
 ---
-#### Week 01
+#### [Week 01](https://github.com/rebleo/infoWeb2018/wiki/Week-01)
 ##### Class 1 : Wednesday August 29
 ###### Assignment:
 * Create a GitHub account and sign up for the [GitHub Student Developer Pack](https://education.github.com/pack). Email me your username before 2pm tomorrow + be sure to respond to my invitation to collaborate. If you are already familiar w/ Github - your assignment is to create + maintain a repo specifically for this class.
@@ -73,13 +72,17 @@ This class meets for 1 hour and 15 minutes twice per week. Students are expected
 * GitHub, Markdown + the Class Wiki
 * Working with Text Editors + creating html, .css + .js files
 
-#### Week 02
+---
+
+#### [Week 02](https://github.com/rebleo/infoWeb2018/wiki/Week-02)
 ##### Class 3 : Thursday September 6
 * Workflow + Directory (File Path) Organization + Running a Local Server w/ Python
 * Intro to the Browser + the DOM
 * Intro to HTML -  Structure + tags
 
-#### Week 03
+---
+
+#### [Week 03](https://github.com/rebleo/infoWeb2018/wiki/Week-03)
 ###### Class 4 : Monday September 10
 * Authoring HTML Document Models
 * Images + Video w/ HTML
@@ -91,6 +94,8 @@ This class meets for 1 hour and 15 minutes twice per week. Students are expected
 * HTML Divs + Spans
 * HTML Buttons
 
+---
+
 #### Week 04
 ###### Class 6 : Monday September 17
 * Intro to CSS
@@ -99,11 +104,15 @@ This class meets for 1 hour and 15 minutes twice per week. Students are expected
 * CSS Selectors
 * Inline vs. External CSS
 
+---
+
 #### Week 05
 ###### Class 8 : Monday September 24
 * CSS Text Formating + Color
 ###### Class 9 : Thursday September 27
 * Intro to FTP
+
+---
 
 #### Week 06
 ###### Class 10 : Monday October 1
@@ -141,11 +150,4 @@ Intro to [Bootstrap.js](https://getbootstrap.com/)
 ###### Class 24 : Monday November 26
 ###### Class 25 : Thursday November 29
 
-#### Week 15
-###### Class 26 : Monday December 3
-###### Class 27 : Thursday December 6
-Final Project Presentations
-
-#### Week 16
-###### Class 28 : Monday December 10
-Final Project Presentations
+#### Week 15 - Final Project Presentations
