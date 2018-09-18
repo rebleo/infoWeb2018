@@ -84,37 +84,38 @@ This class meets for 1 hour and 15 minutes twice per week. Students are expected
 
 #### [Week 03](https://github.com/rebleo/infoWeb2018/wiki/Week-03)
 ###### Class 4 : Monday September 10
-* Authoring HTML Document Models
-* Images + Video w/ HTML
-* Creating Sitemap + Wireframes
+* Look at Homework
+* Review Running a Local Server
 
 ###### Class 5 : Thursday September 13
-* HTML Attributes
-* HTML Tables
-* HTML Divs + Spans
-* HTML Buttons
-
+* Review Text + Structural Tags
+* URL Links + File Paths
+* Images w/ HTML
+* iFrame Tag
+* HTML + Video
+* HTML Tables, Forms, Inputs + Buttons
+* Designing a Website: Wire Frames + Site Maps
 ---
 
-#### Week 04
+#### [Week 04]((https://github.com/rebleo/infoWeb2018/wiki/Week-04))
 ###### Class 6 : Monday September 17
 * Intro to CSS
+* CSS Selectors
+* Pseudo-Classes
 * CSS IDs + Classes
 ###### Class 7 : Thursday September 20
-* CSS Selectors
-* Inline vs. External CSS
+* Intro to Storm Server + SFTP
+* CSS Positioning
 
 ---
 
-#### Week 05
+#### [Week 05]((https://github.com/rebleo/infoWeb2018/wiki/Week-05))
 ###### Class 8 : Monday September 24
-* CSS Text Formating + Color
 ###### Class 9 : Thursday September 27
-* Intro to FTP
 
 ---
 
-#### Week 06
+#### [Week 06]((https://github.com/rebleo/infoWeb2018/wiki/Week-06)
 ###### Class 10 : Monday October 1
 ###### Class 11 : Thursday October 4
 
