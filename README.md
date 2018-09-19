@@ -97,7 +97,7 @@ This class meets for 1 hour and 15 minutes twice per week. Students are expected
 * Designing a Website: Wire Frames + Site Maps
 ---
 
-#### [Week 04]((https://github.com/rebleo/infoWeb2018/wiki/Week-04))
+#### [Week 04](https://github.com/rebleo/infoWeb2018/wiki/Week-04)
 ###### Class 6 : Monday September 17
 * Intro to CSS
 * CSS Selectors
@@ -109,13 +109,13 @@ This class meets for 1 hour and 15 minutes twice per week. Students are expected
 
 ---
 
-#### [Week 05]((https://github.com/rebleo/infoWeb2018/wiki/Week-05))
+#### [Week 05](https://github.com/rebleo/infoWeb2018/wiki/Week-05)
 ###### Class 8 : Monday September 24
 ###### Class 9 : Thursday September 27
 
 ---
 
-#### [Week 06]((https://github.com/rebleo/infoWeb2018/wiki/Week-06)
+#### [Week 06](https://github.com/rebleo/infoWeb2018/wiki/Week-06)
 ###### Class 10 : Monday October 1
 ###### Class 11 : Thursday October 4
 
