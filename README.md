@@ -111,12 +111,15 @@ This class meets for 1 hour and 15 minutes twice per week. Students are expected
 
 #### [Week 05](https://github.com/rebleo/infoWeb2018/wiki/Week-05)
 ###### Class 8 : Monday September 24
+* Web + Typography
 ###### Class 9 : Thursday September 27
+* Intro to Automated Grid Systems
 
 ---
 
 #### [Week 06](https://github.com/rebleo/infoWeb2018/wiki/Week-06)
 ###### Class 10 : Monday October 1
+* Responsive CSS
 ###### Class 11 : Thursday October 4
 
 #### Week 07
