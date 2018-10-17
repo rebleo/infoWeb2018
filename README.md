@@ -121,37 +121,46 @@ This class meets for 1 hour and 15 minutes twice per week. Students are expected
 ###### Class 10 : Monday October 1
 * Responsive CSS
 ###### Class 11 : Thursday October 4
+* Midterm Project Proposals
 
-#### Week 07
+#### [Week 07](https://github.com/rebleo/infoWeb2018/wiki/Week-07)
 ###### Class 12 : Thursday October 11
+* Midterm Project Proposals
 
-#### Week 08 - Midterm Project Presentations
+#### [Week 08](https://github.com/rebleo/infoWeb2018/wiki/Week-08) - Midterm Project Presentations
 ###### Class 13 : Monday October 15
 ###### Class 14 : Thursday October 18
 
-#### Week 09
+#### [Week 09](https://github.com/rebleo/infoWeb2018/wiki/Week-09)
 ###### Class 15 : Monday October 22
 ###### Class 16 : Thursday October 25
 
-#### Week 10
+#### [Week 10](https://github.com/rebleo/infoWeb2018/wiki/Week-10)
 ###### Class 17 : Monday October 29
-* Intro to [p5.js](https://p5js.org/)
 ###### Class 18 : Thursday November 1
 
-#### Week 11
+#### [Week 11](https://github.com/rebleo/infoWeb2018/wiki/Week-11)
 ###### Class 19 : Monday November 5
-Intro to [Bootstrap.js](https://getbootstrap.com/)
+* Intro to [p5.js](https://p5js.org/)
 ###### Class 20 : Thursday November 8
 
-#### Week 12
+#### [Week 12](https://github.com/rebleo/infoWeb2018/wiki/Week-12)
 ###### Class 21: Monday November 12
+* Intro to [Bootstrap.js](https://getbootstrap.com/)
 ###### Class 22 : Thursday November 15
 
-#### Week 13
+#### [Week 13](https://github.com/rebleo/infoWeb2018/wiki/Week-13)
 ###### Class 23 : Monday November 19
 
-#### Week 14
+#### [Week 14](https://github.com/rebleo/infoWeb2018/wiki/Week-14) - Final Project Proposals
 ###### Class 24 : Monday November 26
 ###### Class 25 : Thursday November 29
 
-#### Week 15 - Final Project Presentations
+#### [Week 15](https://github.com/rebleo/infoWeb2018/wiki/Week-10)
+###### Class 26 : Monday December 3
+###### Class 27 : Thursday December 6
+* Final Project Presentations
+
+#### Week 16 - Final Project Presentations
+###### Class 28 : Monday December 10
+###### Class 29: Thursday December 13
