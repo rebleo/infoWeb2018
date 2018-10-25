@@ -129,10 +129,14 @@ This class meets for 1 hour and 15 minutes twice per week. Students are expected
 
 #### [Week 08](https://github.com/rebleo/infoWeb2018/wiki/Week-08) - Midterm Project Presentations
 ###### Class 13 : Monday October 15
+* Midterm Project Presentations
 ###### Class 14 : Thursday October 18
+* CSS RWD Layout
+* CSS Animations
 
 #### [Week 09](https://github.com/rebleo/infoWeb2018/wiki/Week-09)
 ###### Class 15 : Monday October 22
+* Intro to JavaScript
 ###### Class 16 : Thursday October 25
 
 #### [Week 10](https://github.com/rebleo/infoWeb2018/wiki/Week-10)
@@ -151,16 +155,22 @@ This class meets for 1 hour and 15 minutes twice per week. Students are expected
 
 #### [Week 13](https://github.com/rebleo/infoWeb2018/wiki/Week-13)
 ###### Class 23 : Monday November 19
+* Final Project Proposals
 
-#### [Week 14](https://github.com/rebleo/infoWeb2018/wiki/Week-14) - Final Project Proposals
+#### [Week 14](https://github.com/rebleo/infoWeb2018/wiki/Week-14)
 ###### Class 24 : Monday November 26
+* Final Project Proposals
 ###### Class 25 : Thursday November 29
+* Final Project Studio
 
 #### [Week 15](https://github.com/rebleo/infoWeb2018/wiki/Week-10)
 ###### Class 26 : Monday December 3
+* Final Project Studio
 ###### Class 27 : Thursday December 6
 * Final Project Presentations
 
 #### Week 16 - Final Project Presentations
 ###### Class 28 : Monday December 10
+* Final Project Presentations
 ###### Class 29: Thursday December 13
+* Final Project Presentations
