@@ -7,13 +7,13 @@
 	border-radius: 5px;
 	padding: 1em;
 	/* background-color is a great CSS property to use to see if an animation is working */
-	 background-color: green; 
+	 background-color: green;
 	transition-property: background-color, width; transition-duration: 1s; transition-timing-function: ease-in-out; transition-delay: 0.5s;
 
 }
 
-.theFloat:active {
-	 background-color: purple; 
+.theFloat:hover {
+	 background-color: purple;
 	width: 95%;
 }
 
