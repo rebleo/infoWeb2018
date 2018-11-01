@@ -129,28 +129,27 @@ This class meets for 1 hour and 15 minutes twice per week. Students are expected
 
 #### [Week 08](https://github.com/rebleo/infoWeb2018/wiki/Week-08) - Midterm Project Presentations
 ###### Class 13 : Monday October 15
-* Midterm Project Presentations
 ###### Class 14 : Thursday October 18
-* CSS RWD Layout
-* CSS Animations
 
 #### [Week 09](https://github.com/rebleo/infoWeb2018/wiki/Week-09)
 ###### Class 15 : Monday October 22
-* Intro to JavaScript
 ###### Class 16 : Thursday October 25
+* CSS RWD Layout
+* CSS Animations
 
 #### [Week 10](https://github.com/rebleo/infoWeb2018/wiki/Week-10)
+* Intro to Native JavaScript
 ###### Class 17 : Monday October 29
 ###### Class 18 : Thursday November 1
 
 #### [Week 11](https://github.com/rebleo/infoWeb2018/wiki/Week-11)
+* Intro to JS libraries
 ###### Class 19 : Monday November 5
-* Intro to [p5.js](https://p5js.org/)
 ###### Class 20 : Thursday November 8
+
 
 #### [Week 12](https://github.com/rebleo/infoWeb2018/wiki/Week-12)
 ###### Class 21: Monday November 12
-* Intro to [Bootstrap.js](https://getbootstrap.com/)
 ###### Class 22 : Thursday November 15
 
 #### [Week 13](https://github.com/rebleo/infoWeb2018/wiki/Week-13)
