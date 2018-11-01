@@ -162,13 +162,13 @@ This class meets for 1 hour and 15 minutes twice per week. Students are expected
 ###### Class 25 : Thursday November 29
 * Final Project Studio
 
-#### [Week 15](https://github.com/rebleo/infoWeb2018/wiki/Week-10)
+#### [Week 15](https://github.com/rebleo/infoWeb2018/wiki/Week-15--and-16)
 ###### Class 26 : Monday December 3
 * Final Project Studio
 ###### Class 27 : Thursday December 6
 * Final Project Presentations
 
-#### Week 16 - Final Project Presentations
+#### Week 16 - [Final Project Presentations](https://github.com/rebleo/infoWeb2018/wiki/*-Final-Projects)
 ###### Class 28 : Monday December 10
 * Final Project Presentations
 ###### Class 29: Thursday December 13
