@@ -5,5 +5,5 @@ console.log("loaded");
 $(document).ready(function() {
   console.log("jQ loaded");
   $("#theTest").html("Hello, World!");
-  // $(".theOtherTest").html("This is the <strong>updated</strong> text!!");
+  $(".theOtherTest").html("This is the <strong>updated</strong> text!!");
 });
