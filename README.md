@@ -175,4 +175,4 @@ This class meets for 1 hour and 15 minutes twice per week. Students are expected
 ###### Class 29: Thursday December 13
 * Final Project Presentations
 
-###### Final Projects Due Monday December 17
+###### Final Projects Due by 6pm Friday December 14
