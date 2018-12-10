@@ -5,7 +5,7 @@ $(document).ready(function() {
 
     //access image element from html
     var theImage = document.getElementById("myImage");
-    //draw it on canvas
+    // draw it on canvas
     theContext.drawImage(theImage, 0, 0, 350, 500);
 
     theCanvas.addEventListener('mousedown', function(evt) { 
@@ -17,7 +17,7 @@ $(document).ready(function() {
 
         // Log what data it's returning
         // See what values it's returning - 0-255, so it's rgb
-        // console.log(thePixels);
+        console.log(thePixels);
 
         /* For every pixel in an ImageData object there are
         four pieces of information, the RGBA values:
